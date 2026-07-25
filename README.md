@@ -56,7 +56,7 @@ Markdown (.md)
 Клонируйте репозиторий или скачайте ZIP-архив:
 
 ```bash
-git clone https://github.com/ваш-username/doc2md.git
+git clone https://github.com/evodyanykh/doc2md.git
 cd doc2md
 ```
 
