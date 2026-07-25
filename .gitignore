@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Артефакты конвертации
+report.md
+errors.log
+from/
+to_md/
+
+# Рабочие документы и презентации — в репозиторий не попадают
+*.pptx
+*.docx
+*.pdf
+~$*
+
+# Архивы и локальные материалы
+*.rar
+*.zip
+
+# IDE
+.vscode/
+.idea/
